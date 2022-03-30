@@ -1,0 +1,60 @@
+	body {
+		background-color: #CCD6DD;
+		}
+	p {
+		color: #000000;
+    font-size: 20px;
+	}
+	li {
+		color: green;
+		background-color: #ffc;
+	}
+	
+	a{
+		color: blue;
+	}
+	
+	td {
+		font-size: 20px;
+		color: black;
+	}
+	
+	h2 {
+		color: #55ACEE;
+		font-style: italic;
+		text-transform: capitalize;
+    text-align: center;
+	}
+
+h4 {
+  color: #55ACEE;
+  font-size: 50px
+}
+
+table {
+  width: 100%;
+}
+
+	h1 {
+		background-color: #55ACEE;
+		color: #E1E8ED;
+		font-size: 50px;
+		margin: 0px;
+		padding: 10px;
+		border-style: single;
+		border-width: 20px;
+		border-color: pink;
+		border-left-width: 30px;
+		border-right-width: 30px;
+		text-align: center;
+	}
+
+img {
+  border: 5px solid #555;
+}
+
+	td {	
+		font-size: 1em;
+	  text-align: center;
+	}
+/* This is a CSS comment. Put your CSS styling below this line */
